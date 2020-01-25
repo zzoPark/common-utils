@@ -1,0 +1,19 @@
+{
+  "name": "@zzopark/common-utils",
+  "version": "1.0.0",
+  "description": "Common utils for my node.js based applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzoPark/common-utils.git"
+  },
+  "author": "zzoPark",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzoPark/common-utils/issues"
+  },
+  "homepage": "https://github.com/zzoPark/common-utils#readme"
+}
